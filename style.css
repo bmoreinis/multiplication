@@ -1,0 +1,10 @@
+#startButton {
+  padding: 20px;
+  background-color:yellow;
+  margin: 50px;
+  border-radius: 10px;
+  font-size:18pt;
+}
+#startButton:hover {
+  background-color:magenta;
+}
